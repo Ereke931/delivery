@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-c93a-etdlx_t+*rfab88(b!0!tkd-(_!#)#m707tc%zrhbqrp)
 DEBUG = False
 #DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'delivery-shipment.onrender.com',]
+ALLOWED_HOSTS = ['127.0.0.1', 'delivery-shipment-gy27.onrender.com',]
 
 # Application definition
 
